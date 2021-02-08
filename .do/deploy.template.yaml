@@ -1,0 +1,8 @@
+spec:
+  name: leptorsibot
+  services:
+  - environment_slug: node-js
+    git:
+      branch: main
+      repo_clone_url: https://github.com/tonylepage/leptorsibot.git
+    name: leptorsibot
