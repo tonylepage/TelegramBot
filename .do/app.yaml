@@ -2,7 +2,7 @@ name: leptorsibot
 services:
 - environment_slug: node-js
   github:
-    branch: master
+    branch: main
     deploy_on_push: true
     repo: tonylepage/leptorsibot
   name: leptorsibot
