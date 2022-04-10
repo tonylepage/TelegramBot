@@ -1,8 +1,8 @@
-# Getting Started #
+# About #
 
-These steps will get this sample application running for you using DigitalOcean.
+This simple app will run a telegram bot in an App Container on Digital Ocean but you can run on any app platform that supports docker. I use this bot for day trading, to send trading signals to myself.
 
-## Deploying the App ##
+## Deploying the App on Digital Ocean ##
 
 Click this button to deploy the app to the DigitalOcean App Platform.
 
@@ -11,10 +11,4 @@ Click this button to deploy the app to the DigitalOcean App Platform.
 ## Making Changes to Your App ##
 
 As long as you left the default Autodeploy option enabled when you first launched this app, you can now make code changes and see them automatically reflected in your live application. During these automatic deployments, your application will never pause or stop serving request because the App Platform offers zero-downtime deployments.
-
-
-## Learn More ##
-
-You can learn more about the App Platform and how to manage and update your application at https://www.digitalocean.com/docs/apps/.
-
 
